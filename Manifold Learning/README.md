@@ -21,3 +21,7 @@ Performs k-means and spectral clustering on the Swiss roll dataset and visualize
 <p align="center">
   <img src="https://github.com/KSVSC/OptimisationMethods-IIITH-/blob/main/Manifold%20Learning/5.png" />
 </p>
+
+<p align="center">
+  <img src="https://github.com/KSVSC/OptimisationMethods-IIITH-/blob/main/Manifold%20Learning/4.png" />
+</p>
