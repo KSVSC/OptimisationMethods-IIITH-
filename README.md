@@ -1,1 +1,5 @@
-# OptimisationMethods-IIITH
+# OptimisationMethods-IIITH-
+
+## Linear Programming
+
+## Manifold Learning
