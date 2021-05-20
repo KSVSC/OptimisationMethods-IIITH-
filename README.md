@@ -31,7 +31,7 @@ We implement a mixed integer programming algorithm, based upon branch and bound 
  [8. 7. 1. 5. 3. 4. 9. 6. 2.]]</br>
 
 ## Polyhedron separating open and closed circles
-![Screenshot](https://github.com/KSVSC/OptimisationMethods-IIITH-/tree/main/Linear%20Programming/1.png)
+![Screenshot](https://github.com/KSVSC/OptimisationMethods-IIITH-/blob/main/Linear%20Programming/1.png)
 
 
 
