@@ -2,10 +2,10 @@
 
 This is done as part of Optimisation Methods course at IIIT-Hyderabad
 
-# Linear Programming
+## Linear Programming
 Here, there are a few classical problems solved using Linear Programming. Formulations for different problems are given and are solved using optimisation techniques.
 
-## Sudoku Solver
+### Sudoku Solver
 We implement a mixed integer programming algorithm, based upon branch and bound to solve Sudoku puzzles.
 
 **Input** : Puzzle </br>
@@ -30,9 +30,20 @@ We implement a mixed integer programming algorithm, based upon branch and bound 
  [3. 9. 5. 2. 7. 6. 8. 4. 1.]</br>
  [8. 7. 1. 5. 3. 4. 9. 6. 2.]]</br>
 
+<<<<<<< HEAD
 ## Polyhedron separating open and closed circles
+=======
+### Polyhedron separating open and closed circles
+>>>>>>> refs/remotes/origin/main
 ![Screenshot](https://github.com/KSVSC/OptimisationMethods-IIITH-/blob/main/Linear%20Programming/1.png)
 
+### Largest Ball in a Polyhedron
+![Screenshot](https://github.com/KSVSC/OptimisationMethods-IIITH-/blob/main/Linear%20Programming/2.png)
 
+### Illumination Problem
+![Screenshot](https://github.com/KSVSC/OptimisationMethods-IIITH-/blob/main/Linear%20Programming/3.png)
 
-# Manifold Learning
+### Jigsaw Solver
+![Screenshot](https://github.com/KSVSC/OptimisationMethods-IIITH-/blob/main/Linear%20Programming/4.png)
+
+## Manifold Learning
