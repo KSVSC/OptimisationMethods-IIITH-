@@ -30,11 +30,7 @@ We implement a mixed integer programming algorithm, based upon branch and bound 
  [3. 9. 5. 2. 7. 6. 8. 4. 1.]</br>
  [8. 7. 1. 5. 3. 4. 9. 6. 2.]]</br>
 
-<<<<<<< HEAD
-## Polyhedron separating open and closed circles
-=======
 ### Polyhedron separating open and closed circles
->>>>>>> refs/remotes/origin/main
 ![Screenshot](https://github.com/KSVSC/OptimisationMethods-IIITH-/blob/main/Linear%20Programming/1.png)
 
 ### Largest Ball in a Polyhedron
