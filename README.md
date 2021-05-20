@@ -21,7 +21,7 @@ We implement a mixed integer programming algorithm, based upon branch and bound 
  [8. 7. 0. 0. 3. 0. 0. 6. 2.]]</br>
 </div>
 
-**Output** : My Solution </br>
+**Output** : Solution </br>
 <div align="center">
 [[2. 3. 8. 1. 9. 5. 6. 7. 4.] </br>
  [9. 4. 6. 7. 2. 8. 5. 1. 3.]</br>
@@ -35,15 +35,23 @@ We implement a mixed integer programming algorithm, based upon branch and bound 
 </div>
 
 ### Polyhedron separating open and closed circles
+<div align="center">
 ![Screenshot](https://github.com/KSVSC/OptimisationMethods-IIITH-/blob/main/Linear%20Programming/1.png)
+</div>
 
 ### Largest Ball in a Polyhedron
+<div align="center">
 ![Screenshot](https://github.com/KSVSC/OptimisationMethods-IIITH-/blob/main/Linear%20Programming/2.png)
+</div>
 
 ### Illumination Problem
+<div align="center">
 ![Screenshot](https://github.com/KSVSC/OptimisationMethods-IIITH-/blob/main/Linear%20Programming/3.png)
+</div>
 
 ### Jigsaw Solver
+<div align="center">
 ![Screenshot](https://github.com/KSVSC/OptimisationMethods-IIITH-/blob/main/Linear%20Programming/4.png)
+</div>
 
 ## Manifold Learning
