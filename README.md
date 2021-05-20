@@ -35,23 +35,25 @@ We implement a mixed integer programming algorithm, based upon branch and bound 
 </div>
 
 ### Polyhedron separating open and closed circles
-<div align="center">
-![Screenshot](https://github.com/KSVSC/OptimisationMethods-IIITH-/blob/main/Linear%20Programming/1.png)
-</div>
+<p align="center">
+  <img src="https://github.com/KSVSC/OptimisationMethods-IIITH-/blob/main/Linear%20Programming/1.png" />
+</p>
 
 ### Largest Ball in a Polyhedron
-<div align="center">
-![Screenshot](https://github.com/KSVSC/OptimisationMethods-IIITH-/blob/main/Linear%20Programming/2.png)
-</div>
+<p align="center">
+  <img src="https://github.com/KSVSC/OptimisationMethods-IIITH-/blob/main/Linear%20Programming/2.png" />
+</p>
 
 ### Illumination Problem
-<div align="center">
-![Screenshot](https://github.com/KSVSC/OptimisationMethods-IIITH-/blob/main/Linear%20Programming/3.png)
-</div>
+
+<p align="center">
+  <img src="https://github.com/KSVSC/OptimisationMethods-IIITH-/blob/main/Linear%20Programming/3.png" />
+</p>
 
 ### Jigsaw Solver
-<div align="center">
-![Screenshot](https://github.com/KSVSC/OptimisationMethods-IIITH-/blob/main/Linear%20Programming/4.png)
-</div>
+
+<p align="center">
+  <img src="https://github.com/KSVSC/OptimisationMethods-IIITH-/blob/main/Linear%20Programming/4.png" />
+</p>
 
 ## Manifold Learning
